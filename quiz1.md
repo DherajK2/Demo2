@@ -9,9 +9,10 @@ public class Hello {
     }
 }
 
-- [ ] Buy groceries
-- [x] Do laundry
-- [ ] Take out the trash
+* [ ] Buy groceries
+* [x] Do laundry
+* [ ] Take out the trash
+
 
 
 
