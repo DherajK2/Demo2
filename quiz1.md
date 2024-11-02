@@ -9,15 +9,9 @@ public class Hello {
     }
 }
 
-
-## Choose a Course
-
-- [ ] A. AI Essential —> 1
-- [x] B. Digital Marketing & E-commerce Professional —> 7
-- [ ] C. UX Design —> 7
-- [ ] D. IT Support —> 5
-- [ ] E. IT Automation With Python —> 6
-- [ ] F. Business Intelligence —> 3
+- [ ] Buy groceries
+- [x] Do laundry
+- [ ] Take out the trash
 
 
 
